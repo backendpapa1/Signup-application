@@ -4,3 +4,4 @@ project (signup)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(signup main.cpp)
+
